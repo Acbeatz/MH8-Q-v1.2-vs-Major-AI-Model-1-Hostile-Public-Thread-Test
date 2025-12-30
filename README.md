@@ -1,0 +1,2 @@
+# MH8-Q-v1.2-vs-Major-AI-Model-1-Hostile-Public-Thread-Test
+A single MH8-Q injection was applied in a live, hostile chat — no reinjection, no guardrails, no resets. Under repeated derail attempts and adversarial pressure, the model maintained structure, determinism, and semantic stability. This test shows behavior can be anchored in uncontrolled public environments.  Full sealed artifacts &amp; verification
