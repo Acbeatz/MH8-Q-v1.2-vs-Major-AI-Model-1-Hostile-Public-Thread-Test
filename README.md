@@ -23,6 +23,8 @@ https://acbeatz.com/n-eyes
 
 https://acbeatz.com/mint
 
+https://zenodo.org/records/18091595
+
 Why This Test Exists
 Most AI evaluations assume cooperation.
 
